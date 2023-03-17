@@ -1,8 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
- * program to check positivity
+/**
+ * main - entry point
+ *
+ * Return:always return 0
+ *
  */
 int main(void)
 {
