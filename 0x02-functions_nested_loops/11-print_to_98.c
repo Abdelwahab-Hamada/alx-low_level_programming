@@ -4,6 +4,7 @@
 /**
  * print_to_98 - main
  *
+ * @n: input
  */
 void print_to_98(int n)
 {
