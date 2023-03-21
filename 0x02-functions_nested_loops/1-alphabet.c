@@ -3,7 +3,7 @@
  *
  * main
  *
- * returns 0
+ * print_alphabet - prints alphabet
  *
  */
 void print_alphabet(void)
