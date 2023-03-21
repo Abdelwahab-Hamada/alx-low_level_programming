@@ -2,9 +2,9 @@
 /**
  * print_sign - main
  *
- * n - input
+ * n: input
  *
- * return - 0 or -1 or 1
+ * return: 0 or -1 or 1
  *
  */
 int print_sign(int n)
@@ -17,9 +17,7 @@ int print_sign(int n)
 	{
 		_putchar('-');
 		return (-1);
-	} else
-	{
-		_putchar('0');
-		return (0);
 	}
+	_putchar('0');
+	return (0);
 }
