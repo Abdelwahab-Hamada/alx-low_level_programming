@@ -1,7 +1,10 @@
 #include"main.h"
 /**
- *  _isalpha - main function
+ * _isalpha - main function
  *
+ * @c: input
+ *
+ * Return: 1 or 0
  */
 int _isalpha(int c):
 {
