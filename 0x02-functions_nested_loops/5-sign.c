@@ -2,6 +2,10 @@
 /**
  * print_sign - main
  *
+ * n - input
+ *
+ * return - 0 or -1 or 1
+ *
  */
 int print_sign(int n)
 {
