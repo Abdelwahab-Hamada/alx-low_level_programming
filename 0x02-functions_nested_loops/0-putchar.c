@@ -1,5 +1,5 @@
 #include"main.h"
-/*
+/**
  * main - Entry point
  *
  * Return:always returns 0
