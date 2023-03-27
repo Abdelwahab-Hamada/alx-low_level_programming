@@ -1,9 +1,9 @@
 #include"main.h"
 /**
- * _puts2 - main
+ * puts2 - main
  * @str: input
  */
-void _puts2(char *str)
+void puts2(char *str)
 {
 	int index;
 
