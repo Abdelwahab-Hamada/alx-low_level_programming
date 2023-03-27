@@ -7,7 +7,7 @@ void _puts(char *str)
 {
 	int index;
 
-	for (index = 0 ; str[index] != '\n' ; index++)
-		_putchar(str[index]);
+	for (index = 0 ; *(str+index) != '\n' ; index++)
+		_putchar(*(str+index));
 	_putchar('\n');
 }
