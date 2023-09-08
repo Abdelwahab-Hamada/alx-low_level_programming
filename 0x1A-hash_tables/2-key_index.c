@@ -2,8 +2,8 @@
 
 /**
  * key_index - return key index
- * @key: key 
- * @size: size 
+ * @key: key
+ * @size: size
  *
  * Return: index
  */
